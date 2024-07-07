@@ -11,9 +11,9 @@ A collection of awesome papers for graph learning theory.
   - [Over-squashing](#over-squashing)
     
 ## Surveys
-- Theory of graph neural networks: Representation and learning
-- Weisfeiler and leman go machine learning: The story so far
-- Over-squashing in graph neural networks: A comprehensive survey
+- [Theory of graph neural networks: Representation and learning](https://ems.press/content/book-chapter-files/33345)
+- [Weisfeiler and leman go machine learning: The story so far](https://dl.acm.org/doi/abs/10.5555/3648699.3649032)
+- [Over-squashing in graph neural networks: A comprehensive survey](https://arxiv.org/abs/2308.15568)
 
 ## Expressive power
 - Fine-grained expressivity of graph neural networks
